@@ -1,0 +1,19 @@
+{
+    "name": "adevi/ebay-item-extractor",
+    "description": "Extract item data from eBay",
+    "type": "library",
+    "require": {
+        "php": ">=7.2",
+        "paquettg/php-html-parser": "dev-master"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "EbayItemExtractor\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "Alin M."
+    }],
+    "minimum-stability": "dev"
+}
