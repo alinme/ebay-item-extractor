@@ -8,7 +8,7 @@ License: 4.1
 Developer: https://github.com/alinme/ebay-item-extractor
 License URI: http://www.gnu.org/licenses/gpl.html
 
-Button contact VR
+eBay Item Extractor
 
 == Description ==
 
