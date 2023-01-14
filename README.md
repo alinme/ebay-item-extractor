@@ -5,7 +5,7 @@ Requires at least: 7.2.0
 Tested up to: 8.1.13
 Requires PHP: 7.4.0
 License: 4.1
-Developer: https://github.com/virustran/button-contact-vr/tree/develops
+Developer: https://github.com/alinme/ebay-item-extractor
 License URI: http://www.gnu.org/licenses/gpl.html
 
 Button contact VR
